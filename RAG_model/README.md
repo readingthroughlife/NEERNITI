@@ -154,5 +154,10 @@ python query.py "What is the rainfall in district Dang?"
 - `standalone_rag.py`: The main RAG implementation
 - `query.py`: Script to query the knowledge base
 - `add_file.py`: Script to add new files to the knowledge base
+- `api.py`: FastAPI wrapper for integration with frontend
 - `output_for_dsrag.txt`: Taluk-level data file
 - `district_data.txt`: District-level data file
+- `output_district_key_value.txt`: Additional district data
+- `gujarat_data.txt`: Supplementary data for Gujarat
+- `sample_data.txt`: Sample data for testing
+- `requirements.txt`: Dependencies for the project

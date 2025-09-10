@@ -1,3 +1,9 @@
+# Ignore everything in the root directory
+/*
+
+# Except the RAG_model folder
+!/RAG_model/
+
 # Python
 __pycache__/
 *.py[cod]
