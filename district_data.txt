@@ -1,0 +1,678 @@
+---------- Data for District: AHMEDABAD ----------
+S.No: 1
+STATE: GUJARAT
+DISTRICT: AHMEDABAD
+Rainfall (mm): 700.6612739
+Recharge Worthy Area (ha): 707726.0419
+Total Geographical Area (ha): 707726.0419
+Rainfall Recharge: 101739.19
+Ground Water Recharge (ham): 570275.12
+Surface Water Irrigation: 10753.56
+Ground Water Irrigation: 12914.88
+Annual Ground water Recharge (ham): 570275.12
+Environmental Flows (ham): 55907.2
+Domestic: 9045.10991
+Industrial: 3489.56584
+Irrigation: 67071.6
+Fresh: 42258.26
+Saline: 472109.66
+
+
+---------- Data for District: AMRELI ----------
+S.No: 2
+STATE: GUJARAT
+DISTRICT: AMRELI
+Rainfall (mm): 735.3287155
+Recharge Worthy Area (ha): 747846.7156
+Total Geographical Area (ha): 747846.7156
+Rainfall Recharge: 135017.43
+Ground Water Recharge (ham): 154118.93
+Surface Water Irrigation: 1619.81
+Ground Water Irrigation: 13229.63
+Annual Ground water Recharge (ham): 154118.93
+Environmental Flows (ham): 7705.96
+Domestic: 1254.396202
+Industrial: 73.64643
+Irrigation: 82973.8
+Fresh: 144664.55
+Saline: 1748.42
+
+
+---------- Data for District: ANAND ----------
+S.No: 3
+STATE: GUJARAT
+DISTRICT: ANAND
+Rainfall (mm): 859.2947437
+Recharge Worthy Area (ha): 304119.1437
+Total Geographical Area (ha): 304119.1437
+Rainfall Recharge: 48625.59
+Ground Water Recharge (ham): 136184.07
+Surface Water Irrigation: 26138.48
+Ground Water Irrigation: 7742.33
+Annual Ground water Recharge (ham): 136184.07
+Environmental Flows (ham): 9871.12
+Domestic: 4145.104119
+Industrial: 2623.69568
+Irrigation: 30628.3
+Fresh: 110794.74
+Saline: 15518.21
+
+
+---------- Data for District: ARVALLI ----------
+S.No: 4
+STATE: GUJARAT
+DISTRICT: ARVALLI
+Rainfall (mm): 900.7735205
+Recharge Worthy Area (ha): 310371.5584
+Total Geographical Area (ha): 316889.6184
+Rainfall Recharge: 80035.76
+Ground Water Recharge (ham): 90977.95
+Surface Water Irrigation: 1671.97
+Ground Water Irrigation: 7162.82
+Annual Ground water Recharge (ham): 90977.95
+Environmental Flows (ham): 4548.89
+Domestic: 2089.119963
+Industrial: 25.051775
+Irrigation: 35907.6
+Fresh: 86429.06
+Saline: 0
+
+
+---------- Data for District: BANASKANTHA ----------
+S.No: 5
+STATE: GUJARAT
+DISTRICT: BANASKANTHA
+Rainfall (mm): 686.1250139
+Recharge Worthy Area (ha): 1050135.458
+Total Geographical Area (ha): 1079944.618
+Rainfall Recharge: 149816.58
+Ground Water Recharge (ham): 195470.89
+Surface Water Irrigation: 87.98
+Ground Water Irrigation: 17991.15
+Annual Ground water Recharge (ham): 195470.89
+Environmental Flows (ham): 19547.09
+Domestic: 5209.930735
+Industrial: 41.79299
+Irrigation: 184745.35
+Fresh: 118909.66
+Saline: 57014.14
+
+
+---------- Data for District: BHARUCH ----------
+S.No: 6
+STATE: GUJARAT
+DISTRICT: BHARUCH
+Rainfall (mm): 805.1483122
+Recharge Worthy Area (ha): 546298.2998
+Total Geographical Area (ha): 550688.2998
+Rainfall Recharge: 66522.35
+Ground Water Recharge (ham): 96450.9
+Surface Water Irrigation: 9495.13
+Ground Water Irrigation: 4710.73
+Annual Ground water Recharge (ham): 96450.9
+Environmental Flows (ham): 8255.97
+Domestic: 2483.582353
+Industrial: 1339.772865
+Irrigation: 17703.7
+Fresh: 63557.66
+Saline: 24637.27
+
+
+---------- Data for District: BHAVNAGAR ----------
+S.No: 7
+STATE: GUJARAT
+DISTRICT: BHAVNAGAR
+Rainfall (mm): 690.74222
+Recharge Worthy Area (ha): 728147.9936
+Total Geographical Area (ha): 728147.9936
+Rainfall Recharge: 103294.68
+Ground Water Recharge (ham): 126363.84
+Surface Water Irrigation: 6777.04
+Ground Water Irrigation: 10239.35
+Annual Ground water Recharge (ham): 126363.84
+Environmental Flows (ham): 6337.9
+Domestic: 3963.67291
+Industrial: 79.120035
+Irrigation: 49562
+Fresh: 106253.72
+Saline: 13772.22
+
+
+---------- Data for District: BOTAD ----------
+S.No: 8
+STATE: GUJARAT
+DISTRICT: BOTAD
+Rainfall (mm): 713.7112832
+Recharge Worthy Area (ha): 248479.863
+Total Geographical Area (ha): 248479.863
+Rainfall Recharge: 44688.02
+Ground Water Recharge (ham): 52266.34
+Surface Water Irrigation: 312.7
+Ground Water Irrigation: 4882.26
+Annual Ground water Recharge (ham): 52266.34
+Environmental Flows (ham): 2615.13
+Domestic: 1033.39046
+Industrial: 16.58125
+Irrigation: 27613.3
+Fresh: 43035.49
+Saline: 6615.71
+
+
+---------- Data for District: CHHOTA UDEPUR ----------
+S.No: 9
+STATE: GUJARAT
+DISTRICT: CHHOTA UDEPUR
+Rainfall (mm): 1118.576161
+Recharge Worthy Area (ha): 326493.2852
+Total Geographical Area (ha): 343791.2852
+Rainfall Recharge: 42927.38
+Ground Water Recharge (ham): 63315.43
+Surface Water Irrigation: 1931.32
+Ground Water Irrigation: 5965.3
+Annual Ground water Recharge (ham): 63315.43
+Environmental Flows (ham): 6331.54
+Domestic: 2264.803198
+Industrial: 1.1315
+Irrigation: 23578.4
+Fresh: 56983.89
+Saline: 0
+
+
+---------- Data for District: DAHOD ----------
+S.No: 10
+STATE: GUJARAT
+DISTRICT: DAHOD
+Rainfall (mm): 724.1545318
+Recharge Worthy Area (ha): 351971.3418
+Total Geographical Area (ha): 364129.3418
+Rainfall Recharge: 19313.39
+Ground Water Recharge (ham): 37440.75
+Surface Water Irrigation: 3947.95
+Ground Water Irrigation: 3122.56
+Annual Ground water Recharge (ham): 37440.75
+Environmental Flows (ham): 3403.88
+Domestic: 2360.333076
+Industrial: 3.3065
+Irrigation: 11500.8
+Fresh: 34036.87
+Saline: 0
+
+
+---------- Data for District: DANG ----------
+S.No: 11
+STATE: GUJARAT
+DISTRICT: DANG
+Rainfall (mm): 2388.385835
+Recharge Worthy Area (ha): 144921.7962
+Total Geographical Area (ha): 180436.7962
+Rainfall Recharge: 32397.69
+Ground Water Recharge (ham): 34657.05
+Surface Water Irrigation: 7.65
+Ground Water Irrigation: 949.42
+Annual Ground water Recharge (ham): 34657.05
+Environmental Flows (ham): 3465.71
+Domestic: 502.8530033
+Industrial: 1.2775
+Irrigation: 3451.7
+Fresh: 31191.34
+Saline: 0
+
+
+---------- Data for District: DEVBHUMI DWARKA ----------
+S.No: 12
+STATE: GUJARAT
+DISTRICT: DEVBHUMI DWARKA
+Rainfall (mm): 919.2956464
+Recharge Worthy Area (ha): 420636.9802
+Total Geographical Area (ha): 432881.9802
+Rainfall Recharge: 42727.19
+Ground Water Recharge (ham): 51178.51
+Surface Water Irrigation: 195.52
+Ground Water Irrigation: 5996.56
+Annual Ground water Recharge (ham): 51178.51
+Environmental Flows (ham): 2558.93
+Domestic: 1700.478441
+Industrial: 100.281703
+Irrigation: 31913.4
+Fresh: 43593.3
+Saline: 5026.28
+
+
+---------- Data for District: GANDHINAGAR ----------
+S.No: 13
+STATE: GUJARAT
+DISTRICT: GANDHINAGAR
+Rainfall (mm): 794.8286972
+Recharge Worthy Area (ha): 215520.6381
+Total Geographical Area (ha): 215520.6381
+Rainfall Recharge: 45095.22
+Ground Water Recharge (ham): 65081.58
+Surface Water Irrigation: 136.5
+Ground Water Irrigation: 6477.68
+Annual Ground water Recharge (ham): 65081.58
+Environmental Flows (ham): 5687.32
+Domestic: 1365
+Industrial: 926.1433
+Irrigation: 62018
+Fresh: 57791.12
+Saline: 1603.13
+
+
+---------- Data for District: GIR SOMNATH ----------
+S.No: 14
+STATE: GUJARAT
+DISTRICT: GIR SOMNATH
+Rainfall (mm): 1107.900254
+Recharge Worthy Area (ha): 328588.3464
+Total Geographical Area (ha): 328588.3464
+Rainfall Recharge: 70962.06
+Ground Water Recharge (ham): 81003.74
+Surface Water Irrigation: 223.95
+Ground Water Irrigation: 7545.11
+Annual Ground water Recharge (ham): 81003.74
+Environmental Flows (ham): 6416.26
+Domestic: 3061.094288
+Industrial: 77.0004
+Irrigation: 32827.5
+Fresh: 70296.46
+Saline: 4291.02
+
+
+---------- Data for District: JAMNAGAR ----------
+S.No: 15
+STATE: GUJARAT
+DISTRICT: JAMNAGAR
+Rainfall (mm): 808.2899847
+Recharge Worthy Area (ha): 642348.394
+Total Geographical Area (ha): 642447.394
+Rainfall Recharge: 121137.82
+Ground Water Recharge (ham): 143069.45
+Surface Water Irrigation: 3592.1
+Ground Water Irrigation: 12643.51
+Annual Ground water Recharge (ham): 143069.45
+Environmental Flows (ham): 7163.33
+Domestic: 2549.242875
+Industrial: 46.4186
+Irrigation: 58832
+Fresh: 130650.96
+Saline: 5255.16
+
+
+---------- Data for District: JUNAGADH ----------
+S.No: 16
+STATE: GUJARAT
+DISTRICT: JUNAGADH
+Rainfall (mm): 1181.572135
+Recharge Worthy Area (ha): 547124.2494
+Total Geographical Area (ha): 555266.2494
+Rainfall Recharge: 152905.39
+Ground Water Recharge (ham): 169228.55
+Surface Water Irrigation: 150.6
+Ground Water Irrigation: 13405.49
+Annual Ground water Recharge (ham): 169228.55
+Environmental Flows (ham): 8466.81
+Domestic: 3333.1617
+Industrial: 79.28375
+Irrigation: 73808.95
+Fresh: 150807.86
+Saline: 9953.88
+
+
+---------- Data for District: KACHCHH ----------
+S.No: 17
+STATE: GUJARAT
+DISTRICT: KACHCHH
+Rainfall (mm): 560.3503823
+Recharge Worthy Area (ha): 2049135.781
+Total Geographical Area (ha): 2049135.781
+Rainfall Recharge: 162954.71
+Ground Water Recharge (ham): 212605.62
+Surface Water Irrigation: 6271.55
+Ground Water Irrigation: 17173.7
+Annual Ground water Recharge (ham): 212605.62
+Environmental Flows (ham): 19649.63
+Domestic: 3598.951961
+Industrial: 1076.962405
+Irrigation: 113802.4
+Fresh: 89915.86
+Saline: 103040.13
+
+
+---------- Data for District: KHEDA ----------
+S.No: 18
+STATE: GUJARAT
+DISTRICT: KHEDA
+Rainfall (mm): 859.3040285
+Recharge Worthy Area (ha): 343764.3027
+Total Geographical Area (ha): 343764.3027
+Rainfall Recharge: 54077.42
+Ground Water Recharge (ham): 97586.54
+Surface Water Irrigation: 14272.21
+Ground Water Irrigation: 7791.49
+Annual Ground water Recharge (ham): 97586.54
+Environmental Flows (ham): 8290.06
+Domestic: 3268.282419
+Industrial: 631.14988
+Irrigation: 36529.2
+Fresh: 79362.14
+Saline: 9934.34
+
+
+---------- Data for District: MAHESANA ----------
+S.No: 19
+STATE: GUJARAT
+DISTRICT: MAHESANA
+Rainfall (mm): 760.2099149
+Recharge Worthy Area (ha): 440747.9848
+Total Geographical Area (ha): 443175.9848
+Rainfall Recharge: 75831.99
+Ground Water Recharge (ham): 288609.29
+Surface Water Irrigation: 5605.38
+Ground Water Irrigation: 21070.28
+Annual Ground water Recharge (ham): 288609.29
+Environmental Flows (ham): 28438.88
+Domestic: 1945.152891
+Industrial: 942.022601
+Irrigation: 111504.1
+Fresh: 74550.7
+Saline: 185619.71
+
+
+---------- Data for District: MAHISAGAR ----------
+S.No: 20
+STATE: GUJARAT
+DISTRICT: MAHISAGAR
+Rainfall (mm): 751.5878414
+Recharge Worthy Area (ha): 245901.0554
+Total Geographical Area (ha): 249997.0554
+Rainfall Recharge: 17689.09
+Ground Water Recharge (ham): 34133.22
+Surface Water Irrigation: 4364.75
+Ground Water Irrigation: 4022.56
+Annual Ground water Recharge (ham): 34133.22
+Environmental Flows (ham): 3413.31
+Domestic: 917.7063179
+Industrial: 12.68302
+Irrigation: 14594
+Fresh: 30719.91
+Saline: 0
+
+
+---------- Data for District: MORBI ----------
+S.No: 21
+STATE: GUJARAT
+DISTRICT: MORBI
+Rainfall (mm): 626.0317954
+Recharge Worthy Area (ha): 499269.7213
+Total Geographical Area (ha): 499269.7213
+Rainfall Recharge: 55276.47
+Ground Water Recharge (ham): 88110.99
+Surface Water Irrigation: 19025.3
+Ground Water Irrigation: 10567.93
+Annual Ground water Recharge (ham): 88110.99
+Environmental Flows (ham): 6061.11
+Domestic: 1667.809444
+Industrial: 192.058045
+Irrigation: 39600.9
+Fresh: 67620.3
+Saline: 14429.58
+
+
+---------- Data for District: NARMADA ----------
+S.No: 22
+STATE: GUJARAT
+DISTRICT: NARMADA
+Rainfall (mm): 1122.704494
+Recharge Worthy Area (ha): 250995.384
+Total Geographical Area (ha): 280232.384
+Rainfall Recharge: 27823.63
+Ground Water Recharge (ham): 41651.91
+Surface Water Irrigation: 1966.01
+Ground Water Irrigation: 5549.34
+Annual Ground water Recharge (ham): 41651.91
+Environmental Flows (ham): 2994.55
+Domestic: 552.6741975
+Industrial: 5.402
+Irrigation: 25284.1
+Fresh: 38657.36
+Saline: 0
+
+
+---------- Data for District: NAVSARI ----------
+S.No: 23
+STATE: GUJARAT
+DISTRICT: NAVSARI
+Rainfall (mm): 1894.641127
+Recharge Worthy Area (ha): 216782.1528
+Total Geographical Area (ha): 222610.1528
+Rainfall Recharge: 61639.04
+Ground Water Recharge (ham): 83393.21
+Surface Water Irrigation: 12162.25
+Ground Water Irrigation: 5818.52
+Annual Ground water Recharge (ham): 83393.21
+Environmental Flows (ham): 6130.76
+Domestic: 2711.807334
+Industrial: 275.876218
+Irrigation: 21009.6
+Fresh: 77165.39
+Saline: 97.06
+
+
+---------- Data for District: PANCHMAHAL ----------
+S.No: 24
+STATE: GUJARAT
+DISTRICT: PANCHMAHAL
+Rainfall (mm): 912.0972932
+Recharge Worthy Area (ha): 325474.4082
+Total Geographical Area (ha): 329041.4082
+Rainfall Recharge: 20535.47
+Ground Water Recharge (ham): 58191.96
+Surface Water Irrigation: 5446.82
+Ground Water Irrigation: 3594.32
+Annual Ground water Recharge (ham): 58191.96
+Environmental Flows (ham): 3893.85
+Domestic: 1563.741613
+Industrial: 374.51346
+Irrigation: 12748.3
+Fresh: 54298.11
+Saline: 0
+
+
+---------- Data for District: PATAN ----------
+S.No: 25
+STATE: GUJARAT
+DISTRICT: PATAN
+Rainfall (mm): 627.4700859
+Recharge Worthy Area (ha): 568650.7668
+Total Geographical Area (ha): 568650.7668
+Rainfall Recharge: 81100.07
+Ground Water Recharge (ham): 114556.21
+Surface Water Irrigation: 526.74
+Ground Water Irrigation: 7579.83
+Annual Ground water Recharge (ham): 114556.21
+Environmental Flows (ham): 10752.78
+Domestic: 1481.654233
+Industrial: 29.1494
+Irrigation: 69607.5
+Fresh: 37610.31
+Saline: 66193.13
+
+
+---------- Data for District: PORBANDAR ----------
+S.No: 26
+STATE: GUJARAT
+DISTRICT: PORBANDAR
+Rainfall (mm): 843.6287272
+Recharge Worthy Area (ha): 230540.684
+Total Geographical Area (ha): 230540.684
+Rainfall Recharge: 32799.23
+Ground Water Recharge (ham): 38392.27
+Surface Water Irrigation: 0
+Ground Water Irrigation: 4683.45
+Annual Ground water Recharge (ham): 38392.27
+Environmental Flows (ham): 2751.41
+Domestic: 894.277968
+Industrial: 221.740055
+Irrigation: 19683.2
+Fresh: 21446.52
+Saline: 14194.34
+
+
+---------- Data for District: RAJKOT ----------
+S.No: 27
+STATE: GUJARAT
+DISTRICT: RAJKOT
+Rainfall (mm): 809.3926023
+Recharge Worthy Area (ha): 776258.8245
+Total Geographical Area (ha): 776258.8245
+Rainfall Recharge: 139884.31
+Ground Water Recharge (ham): 177921.58
+Surface Water Irrigation: 2218.7
+Ground Water Irrigation: 24252.39
+Annual Ground water Recharge (ham): 177921.58
+Environmental Flows (ham): 8896.1
+Domestic: 2596.28051
+Industrial: 519.887935
+Irrigation: 109926.7
+Fresh: 169025.48
+Saline: 0
+
+
+---------- Data for District: RANA AND KUTCH ----------
+S.No: 28
+STATE: GUJARAT
+DISTRICT: RANA AND KUTCH
+Rainfall (mm): 0
+Recharge Worthy Area (ha): 0
+Total Geographical Area (ha): 0
+Rainfall Recharge: 
+Ground Water Recharge (ham): 
+Surface Water Irrigation: 
+Ground Water Irrigation: 
+Annual Ground water Recharge (ham): 0
+Environmental Flows (ham): 0
+Domestic: 0
+Industrial: 
+Irrigation: 
+Fresh: 0
+Saline: 0
+
+
+---------- Data for District: SABARKANTHA ----------
+S.No: 29
+STATE: GUJARAT
+DISTRICT: SABARKANTHA
+Rainfall (mm): 919.2909245
+Recharge Worthy Area (ha): 407378.4033
+Total Geographical Area (ha): 424920.4033
+Rainfall Recharge: 57339.46
+Ground Water Recharge (ham): 85146.19
+Surface Water Irrigation: 4574.96
+Ground Water Irrigation: 9318.55
+Annual Ground water Recharge (ham): 85146.19
+Environmental Flows (ham): 8514.65
+Domestic: 2083.815012
+Industrial: 271.52165
+Irrigation: 55362.62
+Fresh: 76631.54
+Saline: 0
+
+
+---------- Data for District: SURAT ----------
+S.No: 30
+STATE: GUJARAT
+DISTRICT: SURAT
+Rainfall (mm): 1551.187984
+Recharge Worthy Area (ha): 421240.3826
+Total Geographical Area (ha): 421582.3826
+Rainfall Recharge: 105706.24
+Ground Water Recharge (ham): 156015.92
+Surface Water Irrigation: 28712
+Ground Water Irrigation: 10520.48
+Annual Ground water Recharge (ham): 156015.92
+Environmental Flows (ham): 12281.25
+Domestic: 19736.29917
+Industrial: 3077.680954
+Irrigation: 36277.5
+Fresh: 134748.37
+Saline: 8986.3
+
+
+---------- Data for District: SURENDRANAGAR ----------
+S.No: 31
+STATE: GUJARAT
+DISTRICT: SURENDRANAGAR
+Rainfall (mm): 606.8768026
+Recharge Worthy Area (ha): 927607.2075
+Total Geographical Area (ha): 927607.2075
+Rainfall Recharge: 104490.61
+Ground Water Recharge (ham): 236416.56
+Surface Water Irrigation: 7886.83
+Ground Water Irrigation: 11660.61
+Annual Ground water Recharge (ham): 236416.56
+Environmental Flows (ham): 18982.23
+Domestic: 2860.419043
+Industrial: 116.45847
+Irrigation: 61530.2
+Fresh: 75679.81
+Saline: 141754.52
+
+
+---------- Data for District: TAPI ----------
+S.No: 32
+STATE: GUJARAT
+DISTRICT: TAPI
+Rainfall (mm): 1484.274087
+Recharge Worthy Area (ha): 308550.3584
+Total Geographical Area (ha): 318572.3584
+Rainfall Recharge: 54150.3
+Ground Water Recharge (ham): 77214.78
+Surface Water Irrigation: 11567.47
+Ground Water Irrigation: 7307.61
+Annual Ground water Recharge (ham): 77214.78
+Environmental Flows (ham): 5979.51
+Domestic: 509.9787808
+Industrial: 61.225255
+Irrigation: 25850.3
+Fresh: 71235.27
+Saline: 0
+
+
+---------- Data for District: VADODARA ----------
+S.No: 33
+STATE: GUJARAT
+DISTRICT: VADODARA
+Rainfall (mm): 897.5771421
+Recharge Worthy Area (ha): 406398.8861
+Total Geographical Area (ha): 406398.8861
+Rainfall Recharge: 62890.84
+Ground Water Recharge (ham): 128111.91
+Surface Water Irrigation: 13758.64
+Ground Water Irrigation: 16437.94
+Annual Ground water Recharge (ham): 128111.91
+Environmental Flows (ham): 8067.03
+Domestic: 6680.572269
+Industrial: 2380.73818
+Irrigation: 58365
+Fresh: 101350.31
+Saline: 18694.57
+
+
+---------- Data for District: VALSAD ----------
+S.No: 34
+STATE: GUJARAT
+DISTRICT: VALSAD
+Rainfall (mm): 2487.498486
+Recharge Worthy Area (ha): 238387.7281
+Total Geographical Area (ha): 300896.7281
+Rainfall Recharge: 56360.68
+Ground Water Recharge (ham): 77119.09
+Surface Water Irrigation: 12526.14
+Ground Water Irrigation: 4435.07
+Annual Ground water Recharge (ham): 77119.09
+Environmental Flows (ham): 7711.92
+Domestic: 4441.559236
+Industrial: 717.884941
+Irrigation: 16558.1
+Fresh: 69397.12
+Saline: 10.05
